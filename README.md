@@ -45,3 +45,90 @@ fn<int>main() {
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
+🧠 Visualized DSA Components (v1)
+Data Structure	JLang Support	Java Support	Visualization
+Linked List	✅	✅	✅
+Tree (Binary)	✅	✅	✅
+Graph	✅	✅	✅
+Stack	✅	✅	✅
+Queue	✅	✅	✅
+Array	✅	✅	✅
+
+🎮 IDE Layout (Preview)
+less
+Copy
+Edit
+ --------------------------------------------------
+| File   Edit   Run   Mode: [JLang ▼]              |
+|--------------------------------------------------|
+|     [Code Editor: .jlang / .java files]         |
+|--------------------------------------------------|
+|   [▶ Run]   [👁️ Visualize]   [Console Output]    |
+|--------------------------------------------------|
+|        [Visualization Canvas / DSA Views]       |
+ --------------------------------------------------
+🔧 Tech Stack
+Language: Java (for IDE and backend)
+
+Runtime: JVM (for both JLang + Java support)
+
+Compiler: Custom compiler for JLang → JVM Bytecode
+
+UI: JavaFX or Swing (depending on setup)
+
+Packaging: Launch4j / jpackage (.exe bundling)
+
+📦 Installation
+Download the latest .exe release from Releases
+
+Run the installer or unzip the folder
+
+Double-click JLang.exe to launch
+
+Start coding in .jlang or .java mode
+
+Java is not required to be installed — the IDE bundles its own JVM.
+
+🔮 Future Plans
+Class/object support in JLang
+
+Custom JLang standard library
+
+Dark/light theme toggle
+
+Step-by-step execution
+
+Linux & macOS builds
+
+🙌 Contributing
+Pull requests are welcome! Whether it's improving JLang syntax, fixing visual bugs, or adding more data structure views — feel free to contribute.
+
+🧑‍💻 Author
+Prashant Dubey
+A passionate developer building tools to make DSA and programming education better.
+
+LinkedIn
+
+Twitter
+
+Portfolio (optional)
+
+📄 License
+MIT License — feel free to use, modify, and share!
+
+
+Let me know if you want:
+- The same README translated into Hindi or another language
+- A shorter version for LinkedIn
+- A version for a website landing page
+
+I can also help you generate visual assets like IDE mockups, badges, or intro banners if needed!
