@@ -9,6 +9,26 @@ JLang compiles to **Java bytecode**, runs on the **JVM**, and comes with a dedic
 ## ✨ Features in v1
 
 ✅ Clean and simple syntax:
+
+fn<>greet() {
+    println("Welcome to JLang!");
+}
+
+fn<int>main() {
+    greet();
+
+    Let l = new LinkedList();
+    l.insert(10);
+    l.insert(20);
+    l.visualize();
+
+    return 0;
+}
+
+
+
+
+
 ```jlang
 Let age = 21;
 greet();
