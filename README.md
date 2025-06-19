@@ -126,10 +126,3 @@ Portfolio (optional)
 📄 License
 MIT License — feel free to use, modify, and share!
 
-
-Let me know if you want:
-- The same README translated into Hindi or another language
-- A shorter version for LinkedIn
-- A version for a website landing page
-
-I can also help you generate visual assets like IDE mockups, badges, or intro banners if needed!
